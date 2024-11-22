@@ -1,0 +1,7 @@
+.idea
+/results/CLSR-POI Results.xlsx
+/results/~$CLSR-POI Results.xlsx
+/results/*.txt
+/results/*.csv
+/results/*.out
+/test.py
